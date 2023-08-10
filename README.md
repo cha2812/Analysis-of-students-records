@@ -49,7 +49,7 @@ Secondly, We have to create a table inside our database
 - Then you Insert some values into your table
   ![](pic3.png)
 
-- Then type the code SELECT * FROM students info to check if the value has been inserted into the table created then you would receive a message stating that the query has been successfully returned and you would see the table with values created.
+- Then type the code SELECT * FROM students info to check if the values have been inserted into the table created then you would receive a message stating that the query has been successfully returned and you would see the table with values created.
   ![](pic4.png)
 
 - Create a table called Health records
@@ -58,11 +58,46 @@ Secondly, We have to create a table inside our database
 -  Then type SELECT * FROM health records to check if the table has been created and if has been created then you would receive a message stating that the query has been successfully returned and you would see the table created.
   ![](pic6.png)
 
-- Insert value into the table
+- Insert values into the table
   ![](pic7.png)
 
-Then type the code SELECT * FROM health records to check if the value has been inserted into the table created then you would receive a message stating that the query has been successfully returned and you would see the table with values created.
+- Then type the code SELECT * FROM health records to check if the values have been inserted into the table created then you would receive a message stating that the query has been successfully returned and you would see the table with values created.
   ![](pic8.png)
+
+- Create a table called Performance
+  ![](pic9.png)
+
+- Then type SELECT * FROM performance to check if the table has been created and if has been created then you would receive a message stating that the query has been successfully returned and you would see the table created.
+  ![](pic10.png)
+
+- Insert values into the table
+  ![](pic11.png)
+
+- Then type the code SELECT * FROM performance to check if the values have been inserted into the table created then you would receive a message stating that the query has been successfully returned and you would see the table with values created.
+  ![](pic12.png)
+
+- Adding constraint that prevents the ID and subject from taking null values
+  ![](pic13.png)
+
+- Renaming the Subject column to the Course column
+  ![](pic14.png)
+
+- Then type the code SELECT * FROM students info to check if the column name has been changed in the table created then you would receive a message stating that the query has been successfully returned and you would see the table with the column name changed.
+  ![](pic15.png)
+
+- Dropping the Age column from the table
+  ![](pic16.png)
+
+-  Then type the code SELECT * FROM students info to check if the column name has been dropped in the table created then you would receive a message stating that the query has been successfully returned and you would see that the Age column name has been dropped.
+  ![](pic17.png)
+
+## Conclusion
+Getting introduced to SQL for the first time, had to understand the basic or starting point of working with SQL which is the 
+- SELECT, FROM, INSERT INTO, VALUES, ALTER TABLE, ALTER COLUMNS. 
+- Knowing the data type (integer, character, character varying, identity/serial, date, numeric, primary key, foreign key.
+Understanding and knowing these concepts is the first and most important step in tacking SQL.
+
+  
 
   
 
