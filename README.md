@@ -95,6 +95,7 @@ Secondly, We have to create a table inside our database
 Getting introduced to SQL for the first time, had to understand the basic or starting point of working with SQL which is the 
 - SELECT, FROM, INSERT INTO, VALUES, ALTER TABLE, ALTER COLUMNS. 
 - Knowing the data type (integer, character, character varying, identity/serial, date, numeric, primary key, foreign key.
+
 Understanding and knowing these concepts is the first and most important step in tackling SQL.
 
   
